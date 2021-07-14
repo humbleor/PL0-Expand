@@ -8,7 +8,6 @@
 >*6.	exit退出*    
 >*7.	实现带参的Procedure*    
 >*8.	显示行号的完整的报错系统*    
->*9.	编译器和解释器分离，实现基于Editplus的PL/0语言集成开发环境*   
-###### 截图
-![image](https://user-images.githubusercontent.com/56596580/125597254-614c3618-1dfb-4698-b803-2cea4a545048.png)
+>*9.	编译器和解释器分离，实现基于Editplus的PL/0语言集成开发环境* 
+>  
 EditPlus配置可以直接使用Jim Wilt为Delphi/Pascal编写的自动补全文件和语法高亮文件,见<https://www.editplus.com/javacpp.html>   
